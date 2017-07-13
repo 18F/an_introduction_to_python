@@ -21,10 +21,10 @@ Some homework assignments are from hackerRank.  There are a few reasons for this
 	* understanding Python data types
 	* if/else statements in Python
 	* functions in python
+	* printing to the screen
+	* string processing basics - the `.format` operator.
 
 * Standing on the shoulders of giants - Class 2 (class time 45 minutes)
-	* printing to the screen
-	* string processing basics - the % sign
 	* reading and writing files
 	* introduction to import statements
 	* introduction to the os module
