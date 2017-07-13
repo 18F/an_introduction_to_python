@@ -14,7 +14,7 @@ Some homework assignments are from hackerRank.  There are a few reasons for this
 
 # Course Breakdown
 
-Week 1
+## Week 1
 
 * Introduction to Python - Class 1 (class time 30 minutes)
 	* writing your first program
@@ -31,8 +31,7 @@ Week 1
 
 Homework:
 
-Assignment for class 1:
-
+## Assignment for class 1:
 
 1. https://www.hackerrank.com/challenges/py-hello-world
 2. https://www.hackerrank.com/challenges/python-raw-input
@@ -43,7 +42,7 @@ Assignment for class 1:
 7. https://www.hackerrank.com/challenges/python-print
 
 
-Assignment for class 2:
+## Assignment for class 2:
 
 For this assignment you will be either creating an account on https://www.pythonanywhere.com
 or downloading and installing Python locally.  If at all possible, it is better to install python locally.
