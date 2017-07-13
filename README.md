@@ -84,10 +84,21 @@ Week 2
 	* sets
 
 * More file processing - Class 2 (class time 45 minutes)
+	* string processing
 	* using for loops to read a bunch of text from a file
 	* using for loops to write a bunch of text to a file
 	* using for loops to move from one directory to the next
 	* working with os.walk
+
+## Assignment for class 3:
+
+1. https://www.hackerrank.com/challenges/python-lists
+2. https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list
+3. https://www.hackerrank.com/challenges/finding-the-percentage
+4. https://www.hackerrank.com/challenges/py-introduction-to-sets
+5. https://www.hackerrank.com/challenges/symmetric-difference
+6. https://www.hackerrank.com/challenges/python-loops
+
 
 Week 3
 
