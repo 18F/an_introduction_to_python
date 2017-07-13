@@ -16,7 +16,7 @@ Some homework assignments are from hackerRank.  There are a few reasons for this
 
 ## Week 1
 
-* Introduction to Python - Class 1 (class time 30 minutes)
+* Introduction to Python - Class 1 (class time 30 minutes) - (CLASS ONE NOTES)[https://github.com/18F/an_introduction_to_python/blob/master/class_one.ipynb]
 	* writing your first program
 	* understanding Python data types
 	* if/else statements in Python
@@ -24,7 +24,7 @@ Some homework assignments are from hackerRank.  There are a few reasons for this
 	* printing to the screen
 	* string processing basics - the `.format` operator.
 
-* Standing on the shoulders of giants - Class 2 (class time 45 minutes)
+* Standing on the shoulders of giants - Class 2 (class time 45 minutes) - (CLASS TWO NOTES)[https://github.com/18F/an_introduction_to_python/blob/master/class_two.ipynb]
 	* reading and writing files
 	* introduction to import statements
 	* introduction to the os module
