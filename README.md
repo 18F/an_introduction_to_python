@@ -4,6 +4,10 @@ Welcome to introduction to Python!
 
 This three week class will prepare you to read and write basic python scripts.  No prior programming experience required!
 
+# Help with the homework?
+
+Email `eric.schles@gsa.gov`
+
 # Administrivia
 
 Some homework assignments are from hackerRank.  There are a few reasons for this:
